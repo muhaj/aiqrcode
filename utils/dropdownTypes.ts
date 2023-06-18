@@ -18,13 +18,13 @@ export const themes: themeType[] = [
   "Minimalist",
   "Professional",
   "Tropical",
-  "Vintage",
+  "Realistic",
 ];
 export const rooms: roomType[] = [
-  "Living Room",
-  "Dining Room",
-  "Office",
-  "Bedroom",
-  "Bathroom",
-  "Gaming Room",
+  "Digital Painting",
+  "Anime Art Style",
+  "Fantasy/ SciFi",
+  "Dreamlike",
+  "Oil Painting",
+  "Surreal",
 ];
