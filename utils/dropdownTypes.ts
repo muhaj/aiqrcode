@@ -3,15 +3,15 @@ export type themeType =
   | "Vintage"
   | "Minimalist"
   | "Professional"
-  | "Realistic";
+  | "Tropical";
 
 export type roomType =
-  | "Digital Painting"
-  | "Anime Art Style"
-  | "Fantasy/ SciFi"
-  | "Dreamlike"
-  | "Oil Painting"
-  | "Surreal";
+  | "Living Room"
+  | "Dining Room"
+  | "Bedroom"
+  | "Bathroom"
+  | "Office"
+  | "Gaming Room";
 
 export const themes: themeType[] = [
   "Modern",
