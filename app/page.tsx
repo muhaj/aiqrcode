@@ -42,7 +42,7 @@ export default function HomePage() {
                 <h3 className="mb-1 font-medium text-lg">Original QR code</h3>
                 <Image
                   alt="Original photo of a room with roomGPT.io"
-                  src="/original-pic.jpg"
+                  src="/original-pic.png"
                   className="w-full object-cover h-96 rounded-2xl"
                   width={400}
                   height={400}
@@ -54,7 +54,7 @@ export default function HomePage() {
                   alt="Generated photo of a QR code with aiin.io"
                   width={400}
                   height={400}
-                  src="/generated-pic-2.jpg"
+                  src="/generated-pic-2.png"
                   className="w-full object-cover h-96 rounded-2xl sm:mt-0 mt-2"
                 />
               </div>
