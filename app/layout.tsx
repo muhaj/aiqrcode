@@ -4,7 +4,7 @@ import "../styles/globals.css";
 
 let title = "Ai QR Code Generator";
 let description = "Generate Creative and artistic QR codes in seconds.";
-let ogimage = "https://roomgpt-demo.vercel.app/og-image.png";
+let ogimage = "https://aiqrcode.vercel.app/og-image.png";
 let sitename = "aiin.io";
 
 export const metadata: Metadata = {
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     images: [ogimage],
     title,
     description,
-    url: "https://roomgpt-demo.vercel.app",
+    url: "https://aiqrcode.vercel.app",
     siteName: sitename,
     locale: "en_US",
     type: "website",
